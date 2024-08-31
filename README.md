@@ -18,4 +18,4 @@ A structured overview of key data science topics, including data analysis, super
 
 ---
 
-<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Machine Learning Repository</p>
+<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Data Science Repository</p>

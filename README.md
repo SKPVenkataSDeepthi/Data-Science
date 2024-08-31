@@ -12,9 +12,9 @@ A list of recommended books that provide in-depth knowledge of data science.
 
 - [Reference Books](https://github.com/SKPVenkataSDeepthi/Data-Science/tree/main/Ref.%20Books)
 
-## Time-series Analysis
-- [Time Series Analysis](
-https://github.com/SKPVenkataSDeepthi/Data-Science/tree/main/Time%20Series%20Analysis)
+## Data Science Topics
+A structured overview of key data science topics, including data analysis, supervised and unsupervised learning, and time series analysis, offering a comprehensive guide for understanding and applying various data science techniques. 
+- [Data Science Topics](https://github.com/SKPVenkataSDeepthi/Data-Science/tree/main/Data%20Science%20Topics)
 
 ---
 

@@ -12,6 +12,10 @@ A list of recommended books that provide in-depth knowledge of data science.
 
 - [Reference Books](https://github.com/SKPVenkataSDeepthi/Data-Science/tree/main/Ref.%20Books)
 
+## Time-series Analysis
+- [Time Series Analysis](
+https://github.com/SKPVenkataSDeepthi/Data-Science/tree/main/Time%20Series%20Analysis)
+
 ---
 
 <p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Machine Learning Repository</p>

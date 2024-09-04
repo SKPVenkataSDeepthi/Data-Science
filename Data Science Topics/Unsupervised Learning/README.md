@@ -5,7 +5,7 @@ Unsupervised learning is a type of machine learning where the algorithm is train
 
 ## Table of Contents
 - [Types of Learning – Unsupervised Learning](#types-of-learning--unsupervised-learning)
-- [Clustering](#clustering-in-machine-learning)
+- [Clustering](#clustering)
 - [Different Types of Clustering Algorithms](#different-types-of-clustering-algorithms)
   - [K-Means Clustering – Introduction](#k-means-clustering--introduction)
   - [Elbow Method for Optimal Value of K in K-Means](#elbow-method-for-optimal-value-of-k-in-k-means)

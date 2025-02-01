@@ -88,5 +88,10 @@ Techniques and tools to visualize data and communicate insights effectively.
 - **Agglomerative and Divisive Clustering**
 
 ---
+Stay tuned as I continue to update this repository with new learnings and projects.
+
+Happy learning!
+
+---
 
 <p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Data Science Repository</p>
